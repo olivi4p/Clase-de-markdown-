@@ -1,8 +1,10 @@
-# Clase-de-markdown-
-GitHub plataforma en la nube diseñada para desarrolladores que permite almacenar, gestionar y compartir código utilizando el sistema de control de versiones Git. "Red Social" para programadores, facilita colaboración, seguimiento de cambios y desarrollo de proyectos de software, tanto público (código abierto) como privado.
+# HISTORIA DE LA COMPUTACIÓN #
 
+##  Arquitectura del pensamiento 
 
-Markdown es un lenguaje de marcado ligero. Es una forma de excribir textos pero con ciertos formatos. 
-Saltos de líneas. Si quieres separar dos parrafos, debes presionar enter dos veces.
+* ### Máquina Diferencial ### 
+Charles Babbage 1822 -> "primera computadpra del mundo"  
+Utilizaba engranajes para calcular y generar tablas de funciones polinómicas de forma automática , evitando los errores humanos.
 
-
+* ### Máquina Diferencial II ###
+Museo de Ciencias de Londres 1991
