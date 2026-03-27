@@ -98,3 +98,5 @@ Es un software libre de código abierto y gratuito creado en 2001 por Ben Fry y 
 * ### P5.Js ###
 ### Lauren Mccarthy ###  
 Herramienta online libre y accesible para aprender programación y hacer arte. Prioriza la inclusión y comunidad, también permite hacer gráficos y obras audiovisuales en la web.
+
+![composición geométrica](https://github.com/olivi4p/Clase-de-markdown-/blob/d2e0e87a50180fa47c0dce53333c59ae8f8f63d8/IMG_6803.HEIC)
